@@ -155,6 +155,11 @@ body {
     text-align: left;
 }
 
+.portfolio {
+    height: 50px;
+    width: 50px;
+}
+
 .profile:hover .profile-name {
     background-color: #fff;
 }
